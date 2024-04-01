@@ -8,4 +8,4 @@ This module focused on aggregating dataframes using Pandas.
 * 8.4 focused on aggregating, grouping, pivoting, and crosstabs in which the data consisted in these types of organizing data are also performed with operations
 * 8.5 focused on time framing in which time intervals and time tracking are introduced, this showed the importance of correlating time to your dataframe <br>
 
-All of the sections of this module played a part in the basic fundamentals of aggregating pandas dataframes. It is imperative to have insight with these topics before we go to Plotting.
+<p align = "center"> All of the sections of this module played a part in the basic fundamentals of aggregating pandas dataframes. It is imperative to have insight with these topics before we go to Plotting. </p>
